@@ -50,3 +50,7 @@ SQL Server, SQLite, and MySQL helpers (`Data.cs`).
 ## .NET 8 Additions (Utilities_6 only)
 
 `IScoreboardProtocol`, `IProtocolFactory`, `ScoreboardData` - scoreboard display protocol interfaces and data model.
+
+---
+
+> The Serial.cs read pattern is adapted from a [sparxeng.com blog post](https://www.sparxeng.com/blog/software/must-use-net-system-io-ports-serialport). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
