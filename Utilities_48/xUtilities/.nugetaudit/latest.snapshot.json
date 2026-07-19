@@ -1,0 +1,115 @@
+{
+  "SnapshotId": "20260405130342_440989a5",
+  "CapturedUtc": "2026-04-05T13:03:42.0820564+00:00",
+  "NormalisedContentHash": "663D6EBF1E29ECA5D9EA1F7959697D3DE937689722A195474B7D05650A054F08",
+  "AnalysisStatus": "Partial",
+  "Solution": {
+    "SolutionName": "Utilities",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+    "SolutionKey": "A71F51AAE8263F27",
+    "SourceIdentity": {
+      "IdentityKey": "A71F51AAE8263F27",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "9021E8DEDC77097B",
+      "ProjectName": "Utilities",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Partial",
+      "TargetFrameworks": "net48",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "EntityFramework",
+          "RequestedVersion": "6.4.4",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net48",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.5.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|NET48|NONE|ENTITYFRAMEWORK"
+        },
+        {
+          "PackageId": "MySql.Data",
+          "RequestedVersion": "8.0.24",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net48",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "9.6.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|NET48|NONE|MYSQL.DATA"
+        }
+      ],
+      "DependencyEdges": [],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027EntityFramework\u0027 6.4.4 is outdated. Latest compatible stable version: 6.5.1.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+          "PackageId": "EntityFramework",
+          "TargetFrameworkMoniker": "net48",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027MySql.Data\u0027 8.0.24 is outdated. Latest compatible stable version: 9.6.0.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+          "PackageId": "MySql.Data",
+          "TargetFrameworkMoniker": "net48",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": [
+        "Neither obj/project.assets.json nor packages.lock.json was found; the resolved package graph may be incomplete."
+      ]
+    }
+  ],
+  "Warnings": [
+    "Neither obj/project.assets.json nor packages.lock.json was found; the resolved package graph may be incomplete.",
+    "Attention required: 2 package diagnostics are warnings."
+  ]
+}

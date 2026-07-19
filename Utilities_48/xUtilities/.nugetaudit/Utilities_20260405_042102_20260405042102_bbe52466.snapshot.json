@@ -1,0 +1,93 @@
+{
+  "SnapshotId": "20260405042102_bbe52466",
+  "CapturedUtc": "2026-04-05T04:21:02.4011035+00:00",
+  "NormalisedContentHash": "EE5483273087D4A1FFDC802371995BE7F2E5910A96CA4FC6BD92E80C7BF985E3",
+  "AnalysisStatus": "Partial",
+  "Solution": {
+    "SolutionName": "Utilities",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+    "SolutionKey": "A71F51AAE8263F27",
+    "SourceIdentity": {
+      "IdentityKey": "A71F51AAE8263F27",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "9021E8DEDC77097B",
+      "ProjectName": "Utilities",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\xUtilities\\Utilities_48.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Partial",
+      "TargetFrameworks": ".NETFramework",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "EntityFramework",
+          "RequestedVersion": "6.4.4",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.2.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|ENTITYFRAMEWORK"
+        },
+        {
+          "PackageId": "MySql.Data",
+          "RequestedVersion": "8.0.24",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/XUTILITIES/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|MYSQL.DATA"
+        }
+      ],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": [
+        "Neither obj/project.assets.json nor packages.lock.json was found; the resolved package graph may be incomplete."
+      ]
+    }
+  ],
+  "Warnings": [
+    "Neither obj/project.assets.json nor packages.lock.json was found; the resolved package graph may be incomplete."
+  ]
+}

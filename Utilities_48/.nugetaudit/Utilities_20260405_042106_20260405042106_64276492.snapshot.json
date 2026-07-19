@@ -1,0 +1,1678 @@
+{
+  "SnapshotId": "20260405042106_64276492",
+  "CapturedUtc": "2026-04-05T04:21:06.8638602+00:00",
+  "NormalisedContentHash": "9F0D82AD0B50A1CEED3807215F225CC55A655D72C557E69134409839824DC98C",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "Utilities",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+    "SolutionKey": "012FACF4CEB14AAB",
+    "SourceIdentity": {
+      "IdentityKey": "012FACF4CEB14AAB",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "1B57A5BF34E7C2DA",
+      "ProjectName": "Utilities",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": ".NETFramework",
+      "AssetsFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\obj\\project.assets.json",
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "BouncyCastle.Cryptography",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.5.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "BouncyCastle.Cryptography",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.6.2",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|BOUNCYCASTLE.CRYPTOGRAPHY"
+        },
+        {
+          "PackageId": "EntityFramework",
+          "RequestedVersion": "6.5.1",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.2.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|ENTITYFRAMEWORK"
+        },
+        {
+          "PackageId": "EntityFramework",
+          "RequestedVersion": null,
+          "ResolvedVersion": "6.5.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.5.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|ENTITYFRAMEWORK"
+        },
+        {
+          "PackageId": "Google.Protobuf",
+          "RequestedVersion": null,
+          "ResolvedVersion": "3.30.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "Google.Protobuf",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.34.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|GOOGLE.PROTOBUF"
+        },
+        {
+          "PackageId": "K4os.Compression.LZ4",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.3.8",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "K4os.Compression.LZ4.Streams"
+          ],
+          "DependencyPath": [
+            "K4os.Compression.LZ4",
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.3.8",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4"
+        },
+        {
+          "PackageId": "K4os.Compression.LZ4.Streams",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.3.8",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.3.8",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4.STREAMS"
+        },
+        {
+          "PackageId": "K4os.Hash.xxHash",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.0.8",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "K4os.Compression.LZ4.Streams"
+          ],
+          "DependencyPath": [
+            "K4os.Hash.xxHash",
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.0.8",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.HASH.XXHASH"
+        },
+        {
+          "PackageId": "Microsoft.Bcl.AsyncInterfaces",
+          "RequestedVersion": null,
+          "ResolvedVersion": "5.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "ZstdSharp.Port"
+          ],
+          "DependencyPath": [
+            "Microsoft.Bcl.AsyncInterfaces",
+            "ZstdSharp.Port",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.BCL.ASYNCINTERFACES"
+        },
+        {
+          "PackageId": "Microsoft.Data.Sqlite",
+          "RequestedVersion": "9.0.4",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|MICROSOFT.DATA.SQLITE"
+        },
+        {
+          "PackageId": "Microsoft.Data.Sqlite",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.4",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Microsoft.Data.Sqlite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE"
+        },
+        {
+          "PackageId": "Microsoft.Data.Sqlite.Core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.0.4",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "Microsoft.Data.Sqlite"
+          ],
+          "DependencyPath": [
+            "Microsoft.Data.Sqlite.Core",
+            "Microsoft.Data.Sqlite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE.CORE"
+        },
+        {
+          "PackageId": "MySql.Data",
+          "RequestedVersion": "9.3.0",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|MYSQL.DATA"
+        },
+        {
+          "PackageId": "MySql.Data",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.3.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "9.6.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA"
+        },
+        {
+          "PackageId": "protobuf-net",
+          "RequestedVersion": "3.2.30",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|PROTOBUF-NET"
+        },
+        {
+          "PackageId": "protobuf-net",
+          "RequestedVersion": null,
+          "ResolvedVersion": "3.2.30",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "protobuf-net"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.2.56",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|PROTOBUF-NET"
+        },
+        {
+          "PackageId": "protobuf-net.Core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "3.2.30",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "protobuf-net"
+          ],
+          "DependencyPath": [
+            "protobuf-net.Core",
+            "protobuf-net"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.2.56",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|PROTOBUF-NET.CORE"
+        },
+        {
+          "PackageId": "SQLite",
+          "RequestedVersion": "3.13.0",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|SQLITE"
+        },
+        {
+          "PackageId": "SQLite",
+          "RequestedVersion": null,
+          "ResolvedVersion": "3.13.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "SQLite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.13.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITE"
+        },
+        {
+          "PackageId": "SQLitePCLRaw.bundle_e_sqlite3",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.1.10",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "Microsoft.Data.Sqlite"
+          ],
+          "DependencyPath": [
+            "SQLitePCLRaw.bundle_e_sqlite3",
+            "Microsoft.Data.Sqlite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.0.2",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.BUNDLE_E_SQLITE3"
+        },
+        {
+          "PackageId": "SQLitePCLRaw.core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.1.10",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "Microsoft.Data.Sqlite",
+            "Microsoft.Data.Sqlite.Core",
+            "SQLitePCLRaw.provider.dynamic_cdecl"
+          ],
+          "DependencyPath": [
+            "SQLitePCLRaw.core",
+            "Microsoft.Data.Sqlite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.0.2",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.CORE"
+        },
+        {
+          "PackageId": "SQLitePCLRaw.lib.e_sqlite3",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.1.10",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "SQLitePCLRaw.bundle_e_sqlite3"
+          ],
+          "DependencyPath": [
+            "SQLitePCLRaw.lib.e_sqlite3",
+            "SQLitePCLRaw.bundle_e_sqlite3",
+            "Microsoft.Data.Sqlite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.1.11",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.LIB.E_SQLITE3"
+        },
+        {
+          "PackageId": "SQLitePCLRaw.provider.dynamic_cdecl",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.1.10",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "SQLitePCLRaw.bundle_e_sqlite3"
+          ],
+          "DependencyPath": [
+            "SQLitePCLRaw.provider.dynamic_cdecl",
+            "SQLitePCLRaw.bundle_e_sqlite3",
+            "Microsoft.Data.Sqlite"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.0.2",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.PROVIDER.DYNAMIC_CDECL"
+        },
+        {
+          "PackageId": "Stub.System.Data.SQLite.Core.NetFramework",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.0.116",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "System.Data.SQLite.Core"
+          ],
+          "DependencyPath": [
+            "Stub.System.Data.SQLite.Core.NetFramework",
+            "System.Data.SQLite.Core"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.0.119",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|STUB.SYSTEM.DATA.SQLITE.CORE.NETFRAMEWORK"
+        },
+        {
+          "PackageId": "System.Buffers",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.5.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data",
+            "System.IO.Pipelines",
+            "System.Memory"
+          ],
+          "DependencyPath": [
+            "System.Buffers",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.6.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.BUFFERS"
+        },
+        {
+          "PackageId": "System.Collections.Immutable",
+          "RequestedVersion": null,
+          "ResolvedVersion": "7.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "protobuf-net.Core"
+          ],
+          "DependencyPath": [
+            "System.Collections.Immutable",
+            "protobuf-net.Core",
+            "protobuf-net"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.COLLECTIONS.IMMUTABLE"
+        },
+        {
+          "PackageId": "System.Configuration.ConfigurationManager",
+          "RequestedVersion": null,
+          "ResolvedVersion": "8.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "System.Configuration.ConfigurationManager",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.CONFIGURATION.CONFIGURATIONMANAGER"
+        },
+        {
+          "PackageId": "System.Data.SQLite.Core",
+          "RequestedVersion": "1.0.116",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": null,
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK|NONE|SYSTEM.DATA.SQLITE.CORE"
+        },
+        {
+          "PackageId": "System.Data.SQLite.Core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.0.116",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "System.Data.SQLite.Core"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.0.119",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.DATA.SQLITE.CORE"
+        },
+        {
+          "PackageId": "System.Diagnostics.DiagnosticSource",
+          "RequestedVersion": null,
+          "ResolvedVersion": "8.0.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "System.Diagnostics.DiagnosticSource",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.DIAGNOSTICS.DIAGNOSTICSOURCE"
+        },
+        {
+          "PackageId": "System.IO.Pipelines",
+          "RequestedVersion": null,
+          "ResolvedVersion": "5.0.2",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "K4os.Compression.LZ4.Streams"
+          ],
+          "DependencyPath": [
+            "System.IO.Pipelines",
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.IO.PIPELINES"
+        },
+        {
+          "PackageId": "System.Memory",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.5.5",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "Google.Protobuf",
+            "K4os.Compression.LZ4",
+            "K4os.Hash.xxHash",
+            "protobuf-net.Core",
+            "SQLitePCLRaw.core",
+            "System.Collections.Immutable",
+            "System.Diagnostics.DiagnosticSource",
+            "System.IO.Pipelines",
+            "ZstdSharp.Port"
+          ],
+          "DependencyPath": [
+            "System.Memory",
+            "Google.Protobuf",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.6.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "PackageId": "System.Numerics.Vectors",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.5.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "System.Memory"
+          ],
+          "DependencyPath": [
+            "System.Numerics.Vectors",
+            "System.Memory",
+            "Google.Protobuf",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.6.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.NUMERICS.VECTORS"
+        },
+        {
+          "PackageId": "System.Runtime.CompilerServices.Unsafe",
+          "RequestedVersion": null,
+          "ResolvedVersion": "6.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "K4os.Compression.LZ4",
+            "K4os.Hash.xxHash",
+            "MySql.Data",
+            "System.Collections.Immutable",
+            "System.Diagnostics.DiagnosticSource",
+            "System.Memory",
+            "System.Threading.Tasks.Extensions",
+            "ZstdSharp.Port"
+          ],
+          "DependencyPath": [
+            "System.Runtime.CompilerServices.Unsafe",
+            "K4os.Compression.LZ4",
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.1.2",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "PackageId": "System.Threading.Tasks.Extensions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.5.4",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "Microsoft.Bcl.AsyncInterfaces",
+            "MySql.Data",
+            "System.IO.Pipelines"
+          ],
+          "DependencyPath": [
+            "System.Threading.Tasks.Extensions",
+            "Microsoft.Bcl.AsyncInterfaces",
+            "ZstdSharp.Port",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.6.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.THREADING.TASKS.EXTENSIONS"
+        },
+        {
+          "PackageId": "ZstdSharp.Port",
+          "RequestedVersion": null,
+          "ResolvedVersion": "0.8.5",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "ZstdSharp.Port",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "0.8.7",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|ZSTDSHARP.PORT"
+        }
+      ],
+      "DependencyEdges": [
+        {
+          "FromPackageId": "Google.Protobuf",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|GOOGLE.PROTOBUF",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4.Streams",
+          "ToPackageId": "K4os.Compression.LZ4",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4.STREAMS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4.Streams",
+          "ToPackageId": "K4os.Hash.xxHash",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4.STREAMS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.HASH.XXHASH"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4.Streams",
+          "ToPackageId": "System.IO.Pipelines",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4.STREAMS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.IO.PIPELINES"
+        },
+        {
+          "FromPackageId": "K4os.Hash.xxHash",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.HASH.XXHASH",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "K4os.Hash.xxHash",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.HASH.XXHASH",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "Microsoft.Bcl.AsyncInterfaces",
+          "ToPackageId": "System.Threading.Tasks.Extensions",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.BCL.ASYNCINTERFACES",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.THREADING.TASKS.EXTENSIONS"
+        },
+        {
+          "FromPackageId": "Microsoft.Data.Sqlite",
+          "ToPackageId": "Microsoft.Data.Sqlite.Core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE.CORE"
+        },
+        {
+          "FromPackageId": "Microsoft.Data.Sqlite",
+          "ToPackageId": "SQLitePCLRaw.bundle_e_sqlite3",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.BUNDLE_E_SQLITE3"
+        },
+        {
+          "FromPackageId": "Microsoft.Data.Sqlite",
+          "ToPackageId": "SQLitePCLRaw.core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.CORE"
+        },
+        {
+          "FromPackageId": "Microsoft.Data.Sqlite.Core",
+          "ToPackageId": "SQLitePCLRaw.core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.DATA.SQLITE.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.CORE"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "BouncyCastle.Cryptography",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|BOUNCYCASTLE.CRYPTOGRAPHY"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "Google.Protobuf",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|GOOGLE.PROTOBUF"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "K4os.Compression.LZ4.Streams",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|K4OS.COMPRESSION.LZ4.STREAMS"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "System.Buffers",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.BUFFERS"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "System.Configuration.ConfigurationManager",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.CONFIGURATION.CONFIGURATIONMANAGER"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "System.Diagnostics.DiagnosticSource",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.DIAGNOSTICS.DIAGNOSTICSOURCE"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "System.Threading.Tasks.Extensions",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.THREADING.TASKS.EXTENSIONS"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "ZstdSharp.Port",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|ZSTDSHARP.PORT"
+        },
+        {
+          "FromPackageId": "protobuf-net",
+          "ToPackageId": "protobuf-net.Core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|PROTOBUF-NET",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|PROTOBUF-NET.CORE"
+        },
+        {
+          "FromPackageId": "protobuf-net.Core",
+          "ToPackageId": "System.Collections.Immutable",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|PROTOBUF-NET.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.COLLECTIONS.IMMUTABLE"
+        },
+        {
+          "FromPackageId": "protobuf-net.Core",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|PROTOBUF-NET.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "SQLitePCLRaw.bundle_e_sqlite3",
+          "ToPackageId": "SQLitePCLRaw.lib.e_sqlite3",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.BUNDLE_E_SQLITE3",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.LIB.E_SQLITE3"
+        },
+        {
+          "FromPackageId": "SQLitePCLRaw.bundle_e_sqlite3",
+          "ToPackageId": "SQLitePCLRaw.provider.dynamic_cdecl",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.BUNDLE_E_SQLITE3",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.PROVIDER.DYNAMIC_CDECL"
+        },
+        {
+          "FromPackageId": "SQLitePCLRaw.core",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "SQLitePCLRaw.provider.dynamic_cdecl",
+          "ToPackageId": "SQLitePCLRaw.core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.PROVIDER.DYNAMIC_CDECL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SQLITEPCLRAW.CORE"
+        },
+        {
+          "FromPackageId": "System.Collections.Immutable",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.COLLECTIONS.IMMUTABLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "System.Collections.Immutable",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.COLLECTIONS.IMMUTABLE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "System.Data.SQLite.Core",
+          "ToPackageId": "Stub.System.Data.SQLite.Core.NetFramework",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.DATA.SQLITE.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|STUB.SYSTEM.DATA.SQLITE.CORE.NETFRAMEWORK"
+        },
+        {
+          "FromPackageId": "System.Diagnostics.DiagnosticSource",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.DIAGNOSTICS.DIAGNOSTICSOURCE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "System.Diagnostics.DiagnosticSource",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.DIAGNOSTICS.DIAGNOSTICSOURCE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "System.IO.Pipelines",
+          "ToPackageId": "System.Buffers",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.IO.PIPELINES",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.BUFFERS"
+        },
+        {
+          "FromPackageId": "System.IO.Pipelines",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.IO.PIPELINES",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "System.IO.Pipelines",
+          "ToPackageId": "System.Threading.Tasks.Extensions",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.IO.PIPELINES",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.THREADING.TASKS.EXTENSIONS"
+        },
+        {
+          "FromPackageId": "System.Memory",
+          "ToPackageId": "System.Buffers",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.BUFFERS"
+        },
+        {
+          "FromPackageId": "System.Memory",
+          "ToPackageId": "System.Numerics.Vectors",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.NUMERICS.VECTORS"
+        },
+        {
+          "FromPackageId": "System.Memory",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "System.Threading.Tasks.Extensions",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.THREADING.TASKS.EXTENSIONS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        },
+        {
+          "FromPackageId": "ZstdSharp.Port",
+          "ToPackageId": "Microsoft.Bcl.AsyncInterfaces",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|ZSTDSHARP.PORT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|MICROSOFT.BCL.ASYNCINTERFACES"
+        },
+        {
+          "FromPackageId": "ZstdSharp.Port",
+          "ToPackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|ZSTDSHARP.PORT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.MEMORY"
+        },
+        {
+          "FromPackageId": "ZstdSharp.Port",
+          "ToPackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|ZSTDSHARP.PORT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES/UTILITIES_48/UTILITIES_48.CSPROJ|.NETFRAMEWORK,VERSION=V4.8|NONE|SYSTEM.RUNTIME.COMPILERSERVICES.UNSAFE"
+        }
+      ],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027BouncyCastle.Cryptography\u0027 2.5.1 is outdated. Latest compatible stable version: 2.6.2.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "BouncyCastle.Cryptography",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027EntityFramework\u0027 6.5.1: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "EntityFramework",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Google.Protobuf\u0027 3.30.0 is outdated. Latest compatible stable version: 3.34.1.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "Google.Protobuf",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027K4os.Compression.LZ4\u0027 1.3.8: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "K4os.Compression.LZ4",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027K4os.Compression.LZ4.Streams\u0027 1.3.8: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "K4os.Compression.LZ4.Streams",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027K4os.Hash.xxHash\u0027 1.0.8: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "K4os.Hash.xxHash",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Bcl.AsyncInterfaces\u0027 5.0.0 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "Microsoft.Bcl.AsyncInterfaces",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Data.Sqlite\u0027 9.0.4 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "Microsoft.Data.Sqlite",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.Data.Sqlite.Core\u0027 9.0.4 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "Microsoft.Data.Sqlite.Core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027MySql.Data\u0027 9.3.0 is outdated. Latest compatible stable version: 9.6.0.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "MySql.Data",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027protobuf-net\u0027 3.2.30 is outdated. Latest compatible stable version: 3.2.56.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "protobuf-net",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027protobuf-net.Core\u0027 3.2.30 is outdated. Latest compatible stable version: 3.2.56.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "protobuf-net.Core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027SQLite\u0027 3.13.0: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "SQLite",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027SQLitePCLRaw.bundle_e_sqlite3\u0027 2.1.10 is outdated. Latest compatible stable version: 3.0.2.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "SQLitePCLRaw.bundle_e_sqlite3",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027SQLitePCLRaw.core\u0027 2.1.10 is outdated. Latest compatible stable version: 3.0.2.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "SQLitePCLRaw.core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027SQLitePCLRaw.lib.e_sqlite3\u0027 2.1.10 is outdated. Latest compatible stable version: 2.1.11.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "SQLitePCLRaw.lib.e_sqlite3",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027SQLitePCLRaw.provider.dynamic_cdecl\u0027 2.1.10 is outdated. Latest compatible stable version: 3.0.2.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "SQLitePCLRaw.provider.dynamic_cdecl",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Stub.System.Data.SQLite.Core.NetFramework\u0027 1.0.116 is outdated. Latest compatible stable version: 1.0.119.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "Stub.System.Data.SQLite.Core.NetFramework",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Buffers\u0027 4.5.1 is outdated. Latest compatible stable version: 4.6.1.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Buffers",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Collections.Immutable\u0027 7.0.0 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Collections.Immutable",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Configuration.ConfigurationManager\u0027 8.0.0 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Configuration.ConfigurationManager",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Data.SQLite.Core\u0027 1.0.116 is outdated. Latest compatible stable version: 1.0.119.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Data.SQLite.Core",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Diagnostics.DiagnosticSource\u0027 8.0.1 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Diagnostics.DiagnosticSource",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.IO.Pipelines\u0027 5.0.2 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.IO.Pipelines",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Memory\u0027 4.5.5 is outdated. Latest compatible stable version: 4.6.3.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Memory",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Numerics.Vectors\u0027 4.5.0 is outdated. Latest compatible stable version: 4.6.1.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Numerics.Vectors",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Runtime.CompilerServices.Unsafe\u0027 6.0.0 is outdated. Latest compatible stable version: 6.1.2.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Runtime.CompilerServices.Unsafe",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Threading.Tasks.Extensions\u0027 4.5.4 is outdated. Latest compatible stable version: 4.6.3.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "System.Threading.Tasks.Extensions",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027ZstdSharp.Port\u0027 0.8.5 is outdated. Latest compatible stable version: 0.8.7.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utilities\\Utilities_48\\Utilities_48.csproj",
+          "PackageId": "ZstdSharp.Port",
+          "TargetFrameworkMoniker": ".NETFramework,Version=v4.8",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": []
+    }
+  ],
+  "Warnings": [
+    "Attention required: 29 package diagnostics are warnings."
+  ]
+}

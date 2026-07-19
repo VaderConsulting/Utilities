@@ -1,0 +1,161 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using System.Data.Sql;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+using System.Diagnostics;
+
+namespace Utilities
+{
+    public static class Data
+    {
+        #region Constants
+
+        #endregion
+
+        #region Delegates
+
+        #endregion
+
+        #region Events
+
+        #endregion
+
+        #region Enums
+
+        #endregion
+
+        #region DLL Imports
+
+        #endregion
+
+        #region Fields
+
+        #endregion
+
+        #region Properties
+
+        #endregion
+
+        #region Constructors and Destructor
+
+        #endregion
+
+        #region Event Handlers
+
+        #endregion
+
+        #region Private Methods
+
+        #endregion
+
+        #region New Methods
+
+        //public static SqlConnection GetConnection(string Connectionstring)
+        //{
+        //    try
+        //    {
+        //        return new SqlConnection(Connectionstring);
+        //    }
+        //    catch
+        //    {
+        //        return null;
+        //    }
+        //}
+
+        //public static DataSet Read(SqlConnection Connection, string Query)
+        //{
+        //    DataSet Result = new DataSet();
+
+        //    try
+        //    {
+        //        if (Connection.State == ConnectionState.Closed)
+        //        {
+        //            Connection.Open();
+        //        }
+
+        //        SqlDataAdapter Adapter = new SqlDataAdapter(Query, Connection);
+
+        //        int RowCount = Adapter.Fill(Result);
+
+        //        Connection.Close();
+
+        //    }
+        //    catch
+        //    {
+        //    }
+        //    finally
+        //    {
+        //        Connection.Close();
+        //    }
+
+        //    return Result;
+        //}
+
+        //public static bool Write(SqlConnection Connection, string Query)
+        //{
+        //    bool Result = false;
+
+        //    try
+        //    {
+        //        if (Connection.State == ConnectionState.Closed)
+        //        {
+        //            Connection.Open();
+        //        }
+
+        //        SqlDataAdapter Adapter = null; // new SqlDataAdapter(Query, Connection);
+
+        //        string DummyQuery = "select * from Address where 0 = 1";
+
+        //        Adapter = new SqlDataAdapter(DummyQuery, Connection);
+        //        DataSet dataSet = new DataSet();
+        //        Adapter.Fill(dataSet);
+
+        //        var newRow = dataSet.Tables["Customers"].NewRow();
+        //        newRow["CustomerID"] = 55;
+        //        dataSet.Tables["Customers"].Rows.Add(newRow);
+
+        //        new SqlCommandBuilder(Adapter);
+        //        Adapter.Update(dataSet);
+
+        //        Connection.Close();
+
+        //        Result = true;
+
+        //    }
+        //    catch
+        //    {
+        //    }
+        //    finally
+        //    {
+        //        Connection.Close();
+        //    }
+
+        //    return Result;
+        //}
+
+        #endregion
+
+        #region Public Methods
+
+        /// <summary>
+        /// Execute a query, returning a dataset
+        /// </summary>
+        /// <param name="QueryString">The query to execute</param>
+        /// <param name="ConnectionString">The Connection string to connect with</param>
+        /// <param name="Timeout">OPTIONAL Timeout.  Only override the default if you have no other option</param>
+        /// <returns>Dataset</returns>
+        /// <remarks></remarks>
+        public static DataSet Execute(string QueryString, string ConnectionString, Int32 Timeout = 30)
+        {
+            DataSet ReturnData = new DataSet("DataSet1");
+            DataTable Table = new DataTable("Table1");
+            SqlConnection DataConnection = null;
+            SqlDataReader DataReader = default(SqlDataReader);
+            SqlCommand DataCommand = new SqlCommand();
+
+            Cursor.Current = Cursors.WaitCursor;

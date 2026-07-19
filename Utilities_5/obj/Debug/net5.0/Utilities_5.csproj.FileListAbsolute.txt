@@ -1,0 +1,5 @@
+C:\Users\windo\OneDrive\Documents\Development\Utilities\Utilities_5\obj\Debug\net5.0\Utilities_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\Utilities\Utilities_5\obj\Debug\net5.0\Utilities_5.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Utilities\Utilities_5\obj\Debug\net5.0\Utilities_5.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\Utilities\Utilities_5\obj\Debug\net5.0\Utilities_5.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Utilities\Utilities_5\obj\Debug\net5.0\Utilities_5.csproj.AssemblyReference.cache
