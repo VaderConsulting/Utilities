@@ -2,6 +2,8 @@
 
 A comprehensive Windows Forms utility class library available in three .NET editions (.NET 4.8, .NET 5, .NET 8). Provides extension methods, custom controls, database helpers, serial communication, data transformation, and more.
 
+**Source last updated:** 2022-05-09
+
 **Initiated:** 2019-01-17 · **Solution:** `Utilities.sln`
 
 ---
