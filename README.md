@@ -56,3 +56,8 @@ SQL Server, SQLite, and MySQL helpers (`Data.cs`).
 ---
 
 > The Serial.cs read pattern is adapted from a [sparxeng.com blog post](https://www.sparxeng.com/blog/software/must-use-net-system-io-ports-serialport). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Requirements
+
+- Visual Studio 2022, .NET 5.0, .NET 8.0, .NET Framework 4.8
+
