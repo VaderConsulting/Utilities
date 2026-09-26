@@ -2,13 +2,13 @@
 
 A comprehensive Windows Forms utility class library available in three .NET editions (.NET 4.8, .NET 5, .NET 8). Provides extension methods, custom controls, database helpers, serial communication, data transformation, and more.
 
-**Source last updated:** 2022-05-09
+**Source last updated:** 2024-05-05
 
 **Initiated:** 2019-01-17 · **Solution:** `Utilities.sln`
 
 ---
 
-## Projects
+## Solution structure
 
 | Project | Target | Notes |
 |---------|--------|-------|
@@ -57,7 +57,18 @@ SQL Server, SQLite, and MySQL helpers (`Data.cs`).
 
 > The Serial.cs read pattern is adapted from a [sparxeng.com blog post](https://www.sparxeng.com/blog/software/must-use-net-system-io-ports-serialport). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
+## How to open
+
+Open `Utilities.sln` in Visual Studio 2022 and build the edition you need (`Utilities_48`, `Utilities_5`, or `Utilities_6`). Reference the resulting class library from a WinForms project.
+
 ## Requirements
 
 - Visual Studio 2022, .NET 5.0, .NET 8.0, .NET Framework 4.8
 
+## Attribution and provenance
+
+Working copy from my Development folder `Utilities`. The `Serial.cs` read pattern follows the sparxeng.com blog post noted above.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
