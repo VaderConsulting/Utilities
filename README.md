@@ -1,4 +1,4 @@
-﻿# Utilities
+# Utilities
 
 A comprehensive Windows Forms utility class library available in three .NET editions (.NET 4.8, .NET 5, .NET 8). Provides extension methods, custom controls, database helpers, serial communication, data transformation, and more.
 
@@ -66,6 +66,8 @@ Open `Utilities.sln` in Visual Studio 2022 and build the edition you need (`Util
 - Visual Studio 2022, .NET 5.0, .NET 8.0, .NET Framework 4.8
 
 ## Attribution and provenance
+
+Working copy from my Historical Dev folder.
 
 Working copy from my Development folder `Utilities`. The `Serial.cs` read pattern follows the sparxeng.com blog post noted above.
 
