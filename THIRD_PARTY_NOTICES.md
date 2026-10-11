@@ -12,5 +12,5 @@ This blog post describes the correct asynchronous approach for reading from
 credited inline in the source file.
 
 No licence was stated on the blog post. Attribution is provided as a courtesy.
-The remaining code in this repository is original work by VaderConsulting and
+The remaining code in this repository is original work by Vader Consulting and
 is released under the MIT Licence.

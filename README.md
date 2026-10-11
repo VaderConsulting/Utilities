@@ -73,4 +73,4 @@ Working copy from my Development folder `Utilities`. The `Serial.cs` read patter
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
